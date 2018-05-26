@@ -217,7 +217,7 @@ The steps / approach for classifier optimization is described in the Question 3 
 
 Finally, I build a pipeline by combining all functions described above in `process_frame_for_video` function and then tested my pipeline on the `project_video.mp4`.
 
-Here's a [link to my video result]((https://github.com/viralzaveri12/CarND-P5-VehicleDetection/tree/master/output_videos "Project Videos with Detected Vehicles")
+Here's a [link to my video result](https://github.com/viralzaveri12/CarND-P5-VehicleDetection/tree/master/output_videos "Project Videos with Detected Vehicles")
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
